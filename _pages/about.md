@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in [Operations Management and Statistics](https://www.rotman.utoronto.ca/programs/phd-program/major-areas-of-study/opm-accordions/) at the University of Toronto, Rotman School of Management, advised by [Ming Hu](https://discover.research.utoronto.ca/21567-ming-hu). I am interested in the role of uncertainty in markets from both the supply and demand perspectives. In particular, I study how buyers' uncertainty affects mechanism design and how limited price experimentation impacts pricing decisions. Before Rotman, I achieved a master's degree in Applied Mathematics and a bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
+I am a third-year Ph.D. student in [Operations Management and Statistics](https://www.rotman.utoronto.ca/programs/phd-program/major-areas-of-study/opm-accordions/) at the University of Toronto, Rotman School of Management, advised by Ming Hu. I am interested in the role of uncertainty in markets from both the supply and demand perspectives. In particular, I study how buyers' uncertainty affects mechanism design and how limited price experimentation impacts pricing decisions. Before Rotman, I achieved a master's degree in Applied Mathematics and a bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
 
 Ongoing Work
 ======
