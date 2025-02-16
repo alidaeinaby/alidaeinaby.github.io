@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Operations Management and Statistics at The University of Toronto, Rotman School of Management. My thesis advisor is Ming Hu. Before Rotman, I completed my master's in Applied Mathematics and bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
+I am a third-year Ph.D. student in Operations Management and Statistics at the Rotman School of Management, University of Toronto, advised by Ming Hu. I am interested in exploring the role of uncertainty in markets from both the supply and demand perspectives. In particular, I study the effect of buyers' uncertainty in mechanism design and limited price experimentation in revenue management. Before Rotman, I achieved a master's degree in Applied Mathematics and a bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
 
 Ongoing Work
 ======
