@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Toronto-ON"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ali Daei Naby"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : "Ali Daei Naby"
+description              : "Operations Management and Statistics PhD student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
