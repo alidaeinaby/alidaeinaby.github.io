@@ -13,7 +13,7 @@ title                    : "Ali Daei Naby"
 title_separator          : "-"
 name                     : "Ali Daei Naby"
 description              : "Operations Management and Statistics PhD student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alidaeinaby.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
