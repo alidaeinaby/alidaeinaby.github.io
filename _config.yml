@@ -22,7 +22,7 @@ title_separator          : "-"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "banf.png"
+  avatar           : "banf.jpg"
   name             : "Ali Daei Naby"
   pronouns         : # example: "she/her"  
   bio              : "Operations Management and Statistics PhD student at University of Toronto, Rotman School of Management"
