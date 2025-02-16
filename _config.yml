@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "banf.png"
   name             : "Ali Daei Naby"
   pronouns         : # example: "she/her"  
   bio              : "Operations Management and Statistics PhD student at University of Toronto, Rotman School of Management"
