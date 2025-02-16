@@ -22,7 +22,7 @@ url                      : https://alidaeinaby.github.io/ # the base hostname & 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/banf.jpg"
+  avatar           : "images/banf.JPG"
   name             : "Ali Daei Naby"
   pronouns         : # example: "she/her"  
   bio              : "Operations Management and Statistics Ph.D. student at University of Toronto, Rotman School of Management"
