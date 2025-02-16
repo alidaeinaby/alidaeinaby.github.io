@@ -11,5 +11,6 @@ I am a third year Ph.D. student in Operations Management and Statistics at The U
 
 Ongoing Work
 ======
-Inspect or Guess: Mechanism Design with Unobservable Inspection
+-Inspect or Guess: Mechanism Design with Unobservable Inspection
+
 
