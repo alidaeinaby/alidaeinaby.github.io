@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Operations Management and Statistics at The University of Toronto, Rotman School of Management. 
+I am a third year Ph.D. student in Operations Management and Statistics at The University of Toronto, Rotman School of Management. My thesis advisor is Ming Hu. Before Rotman, I completed my master's in Applied Mathematics and bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
 
 Ongoing Work
 ======
