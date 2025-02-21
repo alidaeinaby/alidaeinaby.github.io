@@ -11,7 +11,7 @@ I am a third-year Ph.D. student in [Operations Management and Statistics](https:
 
 Ongoing Work
 ======
-- Inspect or Guess: Mechanism Design with Unobservable Inspection
+- [Inspect or Guess: Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
