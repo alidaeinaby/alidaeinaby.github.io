@@ -12,7 +12,7 @@ I am a third-year PhD student in [Operations Management and Statistics](https://
 Ongoing Work
 ======
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
-  -  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
        
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
