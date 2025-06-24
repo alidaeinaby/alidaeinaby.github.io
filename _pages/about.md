@@ -11,6 +11,9 @@ I am a third-year PhD student in [Operations Management and Statistics](https://
 
 Ongoing Work
 ======
+- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
+  -  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+       
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
 
@@ -18,6 +21,10 @@ Ongoing Work
   - with Setareh Farajollahzadeh and Ming Hu
  
 - Rarity vs. Commonality: Optimal NFT Art Collection Design
-  - with Ming Hu and Zhoupeng (Jack) Zhang 
+  - with Ming Hu and Zhoupeng (Jack) Zhang
+ 
 
-
+News
+======
+- Presenting Inspect or Guess? Mechanism Design with Unobservable Inspection at [RMP 2025](https://business.columbia.edu/2025-informs-conference)
+- Presenting Robust One-Shot Price Experiment at [EC 2025](https://ec25.sigecom.org/)
