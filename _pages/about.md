@@ -30,13 +30,13 @@ Publications
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
   - Reject and Resubmit at Operations Research
-  - In Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
+  - Extended Abstract Appeared in the Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
 
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
   - with Setareh Farajollahzadeh and Ming Hu
   - Major Revision at Management Science
-  - In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
+  - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
 
 News
