@@ -15,6 +15,9 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 
 Ongoing Work
 ====== 
+- [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+    
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - NeurIPS 2025 Workshop on Algorithmic Collective Action
