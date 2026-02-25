@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth-year PhD student in [Operations Management and Statistics](https://www.rotman.utoronto.ca/programs/phd-program/major-areas-of-study/opm-accordions/) at the University of Toronto, Rotman School of Management, where I am fortunate to be advised by [Azarakhsh Malekian](https://discover.research.utoronto.ca/22380-azarakhsh-malekian) and [Ming Hu](https://discover.research.utoronto.ca/21567-ming-hu). 
 
-I study the impact of limited information acquisition in markets from both the supply and demand perspectives. In particular, I examine how buyers' costly value inspection affects mechanism design, how coarse post-allocation signals about buyers' valuations alter selling mechanisms, and how limited price experimentation improves pricing decisions. 
+I study the significance of limited extra information in markets from both the supply and demand perspectives. In particular, I examine limitations arising either from costly information acquisition or from the inherent informativeness of signals. I investigate how buyers' costly value inspection affects mechanism design, how coarse post-allocation signals about buyers' valuations alter selling mechanisms, and how limited price experimentation improves pricing decisions. 
 
 Before joining Rotman, I achieved a master's degree in Applied Mathematics and a bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
 
