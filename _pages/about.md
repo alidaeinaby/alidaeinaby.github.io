@@ -13,18 +13,12 @@ I study the significance of limited extra information in markets from both the s
 
 Before joining Rotman, I achieved a master's degree in Applied Mathematics and a bachelor's in Mathematics and Applications from Sharif University of Technology, Iran. 
 
-Ongoing Work
-====== 
-- [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
-  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-    
-- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
-  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-  - NeurIPS 2025 Workshop on Algorithmic Collective Action
- 
-- Digital Art Collection Design
-  - with Ming Hu and Zhoupeng (Jack) Zhang
- 
+News
+======
+- [Feb 2025] New paper out: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+- [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874) at [RMP 2025](https://business.columbia.edu/2025-informs-conference)
+- [July 2025] Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) at [EC 2025](https://ec25.sigecom.org/)
+
 Publications
 ====== 
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
@@ -39,8 +33,18 @@ Publications
   - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
 
-News
-======
-- [Feb 2025] New paper out: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
-- [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874) at [RMP 2025](https://business.columbia.edu/2025-informs-conference)
-- [July 2025] Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) at [EC 2025](https://ec25.sigecom.org/)
+Preprint
+====== 
+- [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+    
+- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - NeurIPS 2025 Workshop on Algorithmic Collective Action
+
+
+Ongoing Work
+====== 
+- Digital Art Collection Design
+  - with Ming Hu and Zhoupeng (Jack) Zhang
+ 
