@@ -37,11 +37,12 @@ Preprint
 ====== 
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - Conference Version Submitted
     
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-  - NeurIPS 2025 Workshop on Algorithmic Collective Action
-
+  - Journal Version Submitted
+  - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
 
 Ongoing Work
 ====== 
