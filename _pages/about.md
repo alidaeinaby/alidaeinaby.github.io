@@ -16,7 +16,8 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 News
 ======
 - [May 2026] Two papers accepted at EC 2026:
-  [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) and [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) 
+  [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) and [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
+- [May 2026] Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) as a finalist for the Open Category Student Paper Competition at CORS 2026  
 - [May 2026] Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) at [MIW 2026](https://marketplaceinnovation.net/)
 - [Feb 2025] New paper out: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
 - [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874) at [RMP 2025](https://business.columbia.edu/2025-informs-conference)
