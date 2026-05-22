@@ -15,6 +15,7 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 
 News
 ======
+- [May 2026] Two papers accepted at EC 2026: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) and [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) at [MIW 2026](https://marketplaceinnovation.net/) 
 - [May 2026] Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) at [MIW 2026](https://marketplaceinnovation.net/)
 - [Feb 2025] New paper out: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
 - [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874) at [RMP 2025](https://business.columbia.edu/2025-informs-conference)
@@ -38,11 +39,12 @@ Preprint
 ====== 
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-  - Conference Version Submitted
+  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
     
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - Journal Version Submitted
+  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
   - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
 
 Ongoing Work
