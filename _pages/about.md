@@ -23,8 +23,8 @@ News
 <details>
 <summary>Older News</summary>
   
-- [July 2025] Presenting Inspect or Guess? Mechanism Design with Unobservable Inspection at RMP 2025
-- [July 2025] Presenting Robust One-Shot Price Experiment at EC 2025
+- [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection] at RMP 2025
+- [July 2025] Presenting [Robust One-Shot Price Experiment] at EC 2025
 
 </details>
 
