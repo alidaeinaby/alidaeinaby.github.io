@@ -20,13 +20,6 @@ News
 - [May 2026] Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) as a finalist for the Open Category Student Paper Competition at CORS 2026; awarded a partial travel grant to attend the conference   
 - [May 2026] Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) at [MIW 2026](https://marketplaceinnovation.net/)
 - [Feb 2025] New paper: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
-<details>
-<summary>Older News</summary>
-  
-- [July 2025] Presenting [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874) at RMP 2025
-- [July 2025] Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) at EC 2025
-
-</details>
 
 Publications
 ====== 
