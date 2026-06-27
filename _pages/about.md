@@ -31,7 +31,7 @@ Publications
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
   - with Setareh Farajollahzadeh and Ming Hu
-  - Major Revision at Management Science
+  - Minor Revision at Management Science
   - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
   - **Finalist**, 2026 *CORS Student Paper Competition Open Category*
