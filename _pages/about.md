@@ -23,11 +23,11 @@ News
 
 Publications
 ====== 
-- [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
-  - with Saeed Alaei and Azarakhsh Malekian
-  - Reject and Resubmit at Operations Research
-  - Extended Abstract Appeared in the Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
-
+- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - Major Revision at Operations Research
+  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
+  - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
   - with Setareh Farajollahzadeh and Ming Hu
@@ -35,18 +35,17 @@ Publications
   - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
   - **Finalist**, 2026 *CORS Student Paper Competition Open Category*
+ 
+- [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
+  - with Saeed Alaei and Azarakhsh Malekian
+  - Reject and Resubmit at Operations Research
+  - Extended Abstract Appeared in the Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
 
 Preprint
 ====== 
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
-    
-- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
-  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-  - Journal Version Submitted
-  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
-  - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
 
 Ongoing Work
 ====== 
