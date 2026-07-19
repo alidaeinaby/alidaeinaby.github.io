@@ -21,7 +21,7 @@ News
 - [May 2026] Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) at [MIW 2026](https://marketplaceinnovation.net/)
 - [Feb 2025] New paper: [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
 
-Publications
+Working Papers
 ====== 
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
@@ -40,10 +40,8 @@ Publications
   - with Saeed Alaei and Azarakhsh Malekian
   - Reject and Resubmit at Operations Research
   - Extended Abstract Appeared in the Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
-
-Preprint
-====== 
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+  
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
 
