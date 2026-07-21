@@ -43,7 +43,6 @@ Under Review and Working Papers
   - Reject and Resubmit at Operations Research
   - Extended Abstract Appeared in the Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
-  
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
 
