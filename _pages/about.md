@@ -15,7 +15,7 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 
 News
 ======
-- **July 2026** Major revision at OR for the paper [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) as a poster in [Crossroads of AI & Society Workshop](https://aaforml.com/2026/)
+- **July 2026** Major revision at OR for the paper [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) 
 - **July 2026** Presenting [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) at EC 2026; awarded a student travel grant to attend the conference
 - **July 2026** Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) as a poster in [Crossroads of AI & Society Workshop](https://aaforml.com/2026/); awarded a partial travel grant to attend the workshop
 - **June 2026** Minor revision at MS for the paper [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)  
