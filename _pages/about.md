@@ -23,7 +23,7 @@ News
   [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) and [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
 - **May 2026** Presenting [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852) as a finalist for the Open Category Student Paper Competition at CORS 2026; awarded a partial travel grant to attend the conference   
 
-Working Papers
+Under Review and Working Papers
 ====== 
 - [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
