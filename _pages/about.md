@@ -15,6 +15,7 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 
 News
 ======
+- **September 2026** Among the three finalist at Michael H. Rothkopf Junior Researcher Paper Prize for the paper [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
 - **July 2026** Major revision at OR for the paper [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) 
 - **July 2026** Presenting [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) at EC 2026; awarded a student travel grant to attend the conference
 - **July 2026** Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) as a poster in [Crossroads of AI & Society Workshop](https://aaforml.com/2026/); awarded a partial travel grant to attend the workshop
@@ -34,6 +35,11 @@ Under Review and Working Papers
   - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
   - **Finalist**, 2026 *CORS Student Paper Competition Open Category*
+ 
+- [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
+  - **Finalist** Michael H. Rothkopf Junior Researcher Paper Prize
  
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
