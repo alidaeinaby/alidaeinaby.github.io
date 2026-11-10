@@ -15,31 +15,33 @@ Before joining Rotman, I achieved a master's degree in Applied Mathematics and a
 
 News
 ======
-- **Sep 2026** Among the three finalists for the Michael H. Rothkopf Junior Researcher Paper Prize with the paper [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
-- **July 2026** Major revision at OR for the paper [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) 
+- **Nov 2026** First place in the 2026 Jeff McGill Student Paper Award for the paper [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)  
+- **Nov 2026** Second place in the Michael H. Rothkopf Junior Researcher Paper Prize for the paper [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
+- **Oct 2026** Accepted for publication in MS: [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)  
+- **July 2026** Major revision at OR: [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) 
 - **July 2026** Presenting [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718) at EC 2026; awarded a student travel grant to attend the conference
 - **July 2026** Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) as a poster in [Crossroads of AI & Society Workshop](https://aaforml.com/2026/); awarded a partial travel grant to attend the workshop
-- **June 2026** Minor revision at MS for the paper [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)  
-
 Under Review and Working Papers
 ====== 
-- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
-  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
-  - Major Revision at Operations Research
-  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
-  - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
   - with Setareh Farajollahzadeh and Ming Hu
-  - Minor Revision at Management Science
+  - Forthcoming at Management Science
   - Extended Abstract Appeared in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
+  - **First Place**, 2026 *Jeff McGill Student Paper Award*
   - **Winner**, 2025 *Oded Berman Student Paper Competition*
   - **Finalist**, 2026 *CORS Student Paper Competition Open Category*
  
 - [Optimal Mechanism Design with Post-Allocation Signal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6220718)
   - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
   - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
-  - **Finalist** Michael H. Rothkopf Junior Researcher Paper Prize
+  - **Second Place** 2026 *Michael H. Rothkopf Junior Researcher Paper Prize*
+ 
+- [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868)
+  - with Saeed Alaei, Ali Makhdoumi, and Azarakhsh Malekian
+  - Major Revision at Operations Research
+  - Accepted at the 27th ACM Conference on Economics and Computation (EC 2026)
+  - Shorter Version Accepted for Poster at the NeurIPS 2025 Workshop on Algorithmic Collective Action
  
 - [Inspect or Guess? Mechanism Design with Unobservable Inspection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146874)
   - with Saeed Alaei and Azarakhsh Malekian
