@@ -23,7 +23,8 @@ News
 - **July 2026** Presenting [Incentivizing Data Collaboration: A Mechanism Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297868) as a poster in [Crossroads of AI & Society Workshop](https://aaforml.com/2026/); awarded a partial travel grant to attend the workshop
 Under Review and Working Papers
 
-====== 
+PUBLICATIONS AND WORKING PAPERS
+======
 
 - [Robust One-Shot Price Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899852)
   - with Setareh Farajollahzadeh and Ming Hu
